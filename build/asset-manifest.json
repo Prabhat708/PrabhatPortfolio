@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e67bb65.chunk.css",
+    "main.js": "/static/js/main.96a95200.chunk.js",
+    "main.js.map": "/static/js/main.96a95200.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0050f349.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0050f349.js.map",
+    "static/js/2.72836b09.chunk.js": "/static/js/2.72836b09.chunk.js",
+    "static/js/2.72836b09.chunk.js.map": "/static/js/2.72836b09.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.497dd5e8dd515da7dbf1827d8fabcd59.js": "/precache-manifest.497dd5e8dd515da7dbf1827d8fabcd59.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6e67bb65.chunk.css.map": "/static/css/main.6e67bb65.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Prashasaksamiti.png": "/static/media/Prashasaksamiti.cc907bfb.png",
+    "static/media/RRlogo.png": "/static/media/RRlogo.9e290a45.png",
+    "static/media/Sitalogo.png": "/static/media/Sitalogo.d863e983.png",
+    "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
+    "static/media/be10xlogo.png": "/static/media/be10xlogo.50ab9b8f.png",
+    "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
+    "static/media/edxlogo.png": "/static/media/edxlogo.ab38fc29.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
+    "static/media/infosyslogo.png": "/static/media/infosyslogo.5ab1ad06.png",
+    "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
+    "static/media/prabhat.png": "/static/media/prabhat.fe5860f8.png",
+    "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
+    "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
+    "static/media/sharpcareerlogo.png": "/static/media/sharpcareerlogo.593aa3a5.png",
+    "static/media/upgovlogo.png": "/static/media/upgovlogo.61d340bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0050f349.js",
+    "static/js/2.72836b09.chunk.js",
+    "static/css/main.6e67bb65.chunk.css",
+    "static/js/main.96a95200.chunk.js"
+  ]
+}
